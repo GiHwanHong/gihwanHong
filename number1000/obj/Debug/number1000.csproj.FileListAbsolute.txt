@@ -1,0 +1,8 @@
+E:\workspace\visualstudio\C#\BaekjoonQuestion\number1000\bin\Debug\number1000.exe.config
+E:\workspace\visualstudio\C#\BaekjoonQuestion\number1000\bin\Debug\number1000.exe
+E:\workspace\visualstudio\C#\BaekjoonQuestion\number1000\bin\Debug\number1000.pdb
+E:\workspace\visualstudio\C#\BaekjoonQuestion\number1000\obj\Debug\number1000.csproj.CoreCompileInputs.cache
+E:\workspace\visualstudio\C#\BaekjoonQuestion\number1000\obj\Debug\number1000.exe
+E:\workspace\visualstudio\C#\BaekjoonQuestion\number1000\obj\Debug\number1000.pdb
+E:\workspace\visualstudio\C#\BaekjoonQuestion\number1000\bin\Debug\number1000.exe.CodeAnalysisLog.xml
+E:\workspace\visualstudio\C#\BaekjoonQuestion\number1000\bin\Debug\number1000.exe.lastcodeanalysissucceeded

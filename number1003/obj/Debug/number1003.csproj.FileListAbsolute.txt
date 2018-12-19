@@ -1,0 +1,7 @@
+E:\workspace\visualstudio\C#\BaekjoonQuestion\number1003\bin\Debug\number1003.exe.config
+E:\workspace\visualstudio\C#\BaekjoonQuestion\number1003\bin\Debug\number1003.exe
+E:\workspace\visualstudio\C#\BaekjoonQuestion\number1003\bin\Debug\number1003.pdb
+E:\workspace\visualstudio\C#\BaekjoonQuestion\number1003\obj\Debug\number1003.csprojAssemblyReference.cache
+E:\workspace\visualstudio\C#\BaekjoonQuestion\number1003\obj\Debug\number1003.csproj.CoreCompileInputs.cache
+E:\workspace\visualstudio\C#\BaekjoonQuestion\number1003\obj\Debug\number1003.exe
+E:\workspace\visualstudio\C#\BaekjoonQuestion\number1003\obj\Debug\number1003.pdb
